@@ -1,0 +1,13 @@
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\bin\Debug\netcoreapp3.1\AlgorthmDataStructure.exe
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\bin\Debug\netcoreapp3.1\AlgorthmDataStructure.deps.json
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\bin\Debug\netcoreapp3.1\AlgorthmDataStructure.runtimeconfig.json
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\bin\Debug\netcoreapp3.1\AlgorthmDataStructure.runtimeconfig.dev.json
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\bin\Debug\netcoreapp3.1\AlgorthmDataStructure.dll
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\bin\Debug\netcoreapp3.1\AlgorthmDataStructure.pdb
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.csprojAssemblyReference.cache
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.AssemblyInfoInputs.cache
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.AssemblyInfo.cs
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.csproj.CoreCompileInputs.cache
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.dll
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.pdb
+C:\Users\gareg\source\repos\DataStructure\AlgorthmDataStructure\AlgorthmDataStructure\obj\Debug\netcoreapp3.1\AlgorthmDataStructure.genruntimeconfig.cache
